@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+node_modules/
+vendor/
+
+Assignment3Runner/node_modules/
+Assignment3Runner/vendor/
+Assignment3Runner/android/.gradle/
+Assignment3Runner/android/app/build/
+Assignment3Runner/android/build/
+Assignment3Runner/ios/build/
+
+ReactNative/
