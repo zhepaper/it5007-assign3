@@ -1,0 +1,15 @@
+{
+  "name": "react-native-server",
+  "version": "1.0.0",
+  "description": "GraphQL/MongoDB backend for IT5007 Assignment 3",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.26.1",
+    "express": "^4.18.2",
+    "graphql": "^15.8.0",
+    "mongodb": "^3.7.4"
+  }
+}
